@@ -1,2 +1,2 @@
-# adivinhar_numero
- Jogo de adivinhação de números aleatórios
+# Quiz sobre o Python utilizando Python 
+ 3 perguntas básicas de Python
