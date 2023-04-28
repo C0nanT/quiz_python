@@ -30,7 +30,6 @@ while ok == 'ok':
         sleep(1)
         start = input(str('Podemos ir para 1° pergunta ? [S/N]: ')).strip().upper()
 
-
 sleep(1)
 start2 = input(str('Podemos ir para 2° pergunta ? [S/N]: ')).strip().upper()
 ok = '##'
@@ -62,7 +61,6 @@ while ok == '##':
         sleep(1)
         start2 = input(str('Podemos ir para 2° pergunta ? [S/N]: ')).strip().upper()
 
-
 sleep(1)
 start3 = input(str('Podemos ir para a última pergunta ? [S/N]: ')).strip().upper()
 ok = 'ok'
@@ -93,8 +91,6 @@ while ok == 'ok':
         print('Você só pode escrever "S" ou "N" pois não sou inteligente seja compreensível 😊')
         sleep(1)
         start3 = input(str('Podemos ir para 3° pergunta ? [S/N]: ')).strip().upper()
-
-
 
 sleep(2.5)
 print('Foi divertido jogar com você')
